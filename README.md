@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Welcome to JJ Chen's GitHub !</h1>
+<h1 align="center"> 👋 Welcome to JJ Chen's GitHub ! </h1>
 <h3 align="center">A passionate frontend developer/data scientist</h3>
 
 - 🔭 I’m currently working on **Fermi National Lab**
