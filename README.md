@@ -1,8 +1,7 @@
 <h1 align="center"> 👋 Welcome to JJ Chen's GitHub ! </h1>
-<h3 align="center">A passionate data scientist and  frontend developer  </h3>
+<h3 align="center">A passionate data scientist and frontend developer </h3>
 
-- 🔭 I’m currently working on **Fermi National Lab** 
-I am a Ph.D. candidate in Physics working with Prof. David Koltick @ Purdue University (2018.08~2023.12). My research focuses on data analysis and simulation of high-energy particles. I use data analysis and numerical simulation, and image processing to understand the physics phenomenon. I have applied Machine learning to solve challenging problems.
+- 🔭 I’m currently working on **Fermi National Lab** (2018.08~2023.12). My research focuses on data analysis and simulation of high-energy particles. I use data analysis and numerical simulation, and image processing to understand the physics phenomenon. I have applied Machine learning to solve challenging problems.
 
 
 - 📫 How to reach me **chen2954@purdue.edu**
