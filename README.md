@@ -22,9 +22,8 @@ I am a Ph.D. candidate in Physics working with Prof. David Koltick @ Purdue Univ
 
 
 
-Starting from 2019-03, I am working as 
+
 Built pipelines to automate meta data extraction from images/videos with Apache Airflow, Kubernetes, MinIO, Docker.
 Extracted metadata from images/videos with fine-tuned optical character recognition (OCR) models.
-Contact me via: chen2954@purdue.edu
 
 
