@@ -1,6 +1,6 @@
 # Hi, Welcome to jijunChen's GitHub page
 
-I am currently a PhD candidate in Physics working with Prof. David Koltick @ Purdue Univeristy (2018.08~2024.05). My research focus on XXXX. I use data analysis and numerical simulation, image processing to understand the physics phenomenon. I have applied Machine learning to solve challenging problems.
+I am a PhD candidate in Physics working with Prof. David Koltick @ Purdue University (2018.08~2023.12). My research focuses on data analysis and simulation of high-energy particles. I use data analysis and numerical simulation, and image processing to understand the physics phenomenon. I have applied Machine learning to solve challenging problems.
 
 
 
