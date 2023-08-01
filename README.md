@@ -1,4 +1,4 @@
-# Welcome to JijunChen's GitHub!
+# Welcome to Jijun Chen's GitHub!
 
 I am a Ph.D. candidate in Physics working with Prof. David Koltick @ Purdue University (2018.08~2023.12). My research focuses on data analysis and simulation of high-energy particles. I use data analysis and numerical simulation, and image processing to understand the physics phenomenon. I have applied Machine learning to solve challenging problems.
 
