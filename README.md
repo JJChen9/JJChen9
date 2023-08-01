@@ -7,7 +7,7 @@ I am a Ph.D. candidate in Physics working with Prof. David Koltick @ Purdue Univ
 
 - 📫 How to reach me **chen2954@purdue.edu**
 
-- ⚡ Fun fact **Also graduated from Youtube University**
+- ⚡ Fun fact ** graduated from Youtube University**
 
 
 
