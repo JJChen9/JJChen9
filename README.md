@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Welcome to JJ Chen's GitHub ! </h1>
 <h3 align="center">A passionate data scientist and frontend developer </h3>
 
-- 🔭 I’m currently working on **Fermi National Lab** (2018.08~2023.12). My research focuses on data analysis and simulation of high-energy particles. I used data analysis and numerical simulation, and image processing to understand the physics phenomenon. I have applied various machine learning algorithms to solve challenging problems in my research.
+- 🔭  My research focuses on data analysis and simulation of high-energy particles. I used data analysis and numerical simulation, and image processing to understand the physics phenomenon. I have applied various machine learning algorithms to solve challenging problems in my research.
 
 
 - 📫 How to reach me: **chen2954@purdue.edu**
