@@ -1,10 +1,8 @@
 <h1 align="center"> 👋 Welcome to JJ Chen's GitHub ! </h1>
 <h3 align="center">A passionate data scientist and frontend developer </h3>
 
-- I have been waiting you for a long time
+- I have been waiting for you for a long time to take a look at what I have done : )
 
-
-- 📫 How to reach me: **chen2954@purdue.edu**
 
 
 <h3 align="left">Languages and Tools:</h3>
