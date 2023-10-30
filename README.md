@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Welcome to Gigi Chen's GitHub ! </h1>
+<h1 align="center"> 👋 Welcome to Jijun Chen's GitHub ! </h1>
 <h3 align="center">A passionate data scientist and frontend developer </h3>
 
 - I have been waiting for you for a long time to take a look at what I have done : )
